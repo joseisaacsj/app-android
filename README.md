@@ -16,7 +16,6 @@ La aplicación será desarrollada utilizando Android Studio, la plataforma ofici
 
 Android Studio ofrece herramientas integradas para la depuración, diseño visual de interfaces, y emulación en tiempo real, lo cual facilita el desarrollo y las pruebas durante las distintas etapas del proyecto.
 
-La aplicación está diseñada para ofrecer una experiencia simple, intuitiva y visualmente atractiva para los usuarios. No se contempla un rol de administrador tradicional, ya que la aplicación está centrada en el uso personal y autónomo.
 
 El usuario podrá:
 
