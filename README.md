@@ -1,34 +1,75 @@
-# app-android
-Borrador de Proyecto en Android (App de Finanzas)
+## Finanzas Personales Inteligentes
 
-# Idea y Propósito General.
-Quiero que sea una aplicación de finanzas. La idea general es de que tenga un glosario que explique sencillos conceptos y que sea para realizar un presupuesto con sugerencias de cómo manejar mi sueldo de manera responsable. No tiene que estar conectado directamente con mis tarjetas o realizar compras de algún tipo, pero sí que me enseñe y me impulse a ser financieramente responsable con mis ingresos.
+## Descripción general
 
-# Público Objetivo
-Esta app está específicamente enfocado a trabajadores recién egresados de la universidad que hayan conseguido su primer empleo profesional relacionado a su título. Pero no significa que todos los que quieran, puedan utilizarla y sea una ayuda en sus vidas.
+**Finanzas Personales Inteligentes** es una aplicación móvil desarrollada en Android (Java) con el objetivo de brindar a los usuarios una herramienta educativa y práctica para mejorar su gestión financiera. 
 
-# Descripción del Proyecto (Borrador)
-Esta aplicación de finanzas personales está diseñada especialmente para administrar su primer sueldo. Su objetivo principal es ofrecer herramientas básicas pero efectivas para fomentar la responsabilidad financiera desde el inicio de la vida laboral.
+La app permite:
+- Consultar un glosario de conceptos básicos de finanzas personales.
+- Crear un presupuesto mensual de forma simple.
+- Recibir sugerencias para administrar responsablemente el sueldo.
 
-La aplicación incluye un glosario sencillo con conceptos clave de educación financiera y una función de elaboración de presupuestos mensuales con plantillas fáciles de seguir y editar según sus necesidades. A partir de la información ingresada por el usuario, mi aplicación sugiere estrategias para distribuir el ingreso de manera responsable, sin requerir conexión real con cuentas bancarias o tarjetas.
-
-La aplicación será desarrollada utilizando Android Studio, la plataforma oficial para crear aplicaciones Android. El lenguaje de programación principal será Java, debido a su compatibilidad, robustez y familiaridad en entornos educativos. Esta decisión permite crear una aplicación nativa optimizada para dispositivos Android, el sistema operativo móvil más utilizado globalmente.
-
-Android Studio ofrece herramientas integradas para la depuración, diseño visual de interfaces, y emulación en tiempo real, lo cual facilita el desarrollo y las pruebas durante las distintas etapas del proyecto.
+> Pensada especialmente para jóvenes recien egresados de la universidad que ingresan al mundo laboral, y personas con poco o ningun conocimientos en cuanto a finanzas personales.
 
 
-El usuario podrá:
+## Características principales
 
-  - Consultar un glosario con términos financieros básicos.
+- Glosario de términos financieros comunes con definiciones sencillas.
+- Herramienta de presupuesto mensual basada en métodos como el 50-30-20.
+- Interfaz intuitiva, con navegación amigable.
+- Visualización gráfica del presupuesto.
+- Persistencia de datos (con opción en Firebase o SQLite).
+- Sin conexión a cuentas bancarias o tarjetas reales (uso educativo).
 
-  - Ingresar su sueldo mensual y gastos previstos.
+## Tecnologías utilizadas
 
-  - Crear un presupuesto personalizado utilizando plantillas predeterminadas.
+- Lenguaje: **Java**
+- IDE: **Android Studio**
+- Versión de Android mínima: **API 21 (Lollipop)**
+- Bases de datos: **Firebase (NoSQL)** y opción alternativa en **SQLite**
+- Control de versiones: **Git y GitHub**
+- Diseño de interfaces: **Figma (wireframes previos)**
 
-  - Recibir sugerencias automáticas sobre cómo distribuir su sueldo de forma responsable, a través de un asistente de IA integrado.
+---
 
-  - Obtener retroalimentación mensual, con estadísticas visuales sobre su comportamiento financiero.
+## Instrucciones de instalación
 
-  - Recibir recomendaciones para el siguiente periodo de pago, basadas en patrones de gasto detectados.
+1. Clonar el repositorio desde GitHub:
+   ```bash
+   git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+2.- Abrir el proyecto en Android Studio.
 
-  - La interfaz estará compuesta por pantallas simples organizadas por secciones (Inicio, Glosario, Mi Presupuesto, Historial, Configuración).
+3.- Ejecutar en un emulador o dispositivo real con Android 5.0 (API 21) o superior.
+
+# Instrucciones de uso
+Inicia la aplicación desde tu dispositivo Android.
+
+Elige entre las opciones del menú principal:
+
+Glosario: Explora conceptos financieros clave.
+
+Presupuesto: Ingresa tu sueldo y distribúyelo en categorías.
+
+Consulta tus resultados y recomendaciones.
+
+# Registro de Cambios (Changelog)
+Versión	Fecha	Cambios Realizados
+0.1	Módulo 1	Definición del proyecto. Revisión de herramientas (Android Studio, App Inventor, GitHub).
+0.2	Módulo 2	Diseño del wireframe. Boceto de pantallas principales en Figma. Navegación planificada.
+0.3	Módulo 3	Implementación inicial de pantallas básicas. Se integran TextViews, Buttons e Intents.
+0.4	Módulo 4	Se agregan GridView, ImageSwitcher y WebView. Implementación inicial de fragments.
+0.5	Módulo 5	Diseño y prueba del modelo de base de datos en Firebase. Implementación parcial de persistencia local en SQLite. Actualización del README. Preparación para push final.
+
+# Estado actual del proyecto
+- Versión 0.5 terminada.
+- En desarrollo: persistencia de datos y validaciones.
+- Preparando la entrega final para el Módulo 8.
+
+# Enlace a la Wiki del proyecto
+Puedes encontrar la documentación complementaria, descripciones de pantallas, conceptos aplicados y reflexiones del curso en el siguiente enlace:
+
+# Ir al Wiki del proyecto
+
+(Reemplaza con el enlace real de tu wiki en GitHub Classroom)
+
+* Este proyecto se encuentra bajo una licencia educativa. No está destinado a usos comerciales ni financieros reales. Su objetivo es académico. *
