@@ -54,11 +54,11 @@ Consulta tus resultados y recomendaciones.
 
 # Registro de Cambios (Changelog)
 Versión	Fecha	Cambios Realizados
-0.1	Módulo 1	Definición del proyecto. Revisión de herramientas (Android Studio, App Inventor, GitHub).
-0.2	Módulo 2	Diseño del wireframe. Boceto de pantallas principales en Figma. Navegación planificada.
-0.3	Módulo 3	Implementación inicial de pantallas básicas. Se integran TextViews, Buttons e Intents.
-0.4	Módulo 4	Se agregan GridView, ImageSwitcher y WebView. Implementación inicial de fragments.
-0.5	Módulo 5	Diseño y prueba del modelo de base de datos en Firebase. Implementación parcial de persistencia local en SQLite. Actualización del README. Preparación para push final.
+- 0.1	Módulo 1	Definición del proyecto. Revisión de herramientas (Android Studio, App Inventor, GitHub).
+- 0.2	Módulo 2	Diseño del wireframe. Boceto de pantallas principales en Figma. Navegación planificada.
+- 0.3	Módulo 3	Implementación inicial de pantallas básicas. Se integran TextViews, Buttons e Intents.
+- 0.4	Módulo 4	Se agregan GridView, ImageSwitcher y WebView. Implementación inicial de fragments.
+- 0.5	Módulo 5	Diseño y prueba del modelo de base de datos en Firebase. Implementación parcial de persistencia local en SQLite. Actualización del README. Preparación para push final.
 
 # Estado actual del proyecto
 - Versión 0.5 terminada.
