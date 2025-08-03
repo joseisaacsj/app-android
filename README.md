@@ -36,10 +36,10 @@ La app permite:
 
 1. Clonar el repositorio desde GitHub:
    ```bash
-   git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
-2.- Abrir el proyecto en Android Studio.
+   git clone https://github.com/joseisaacsj/app-android.git
+2. Abrir el proyecto en Android Studio.
 
-3.- Ejecutar en un emulador o dispositivo real con Android 5.0 (API 21) o superior.
+3. Ejecutar en un emulador o dispositivo real con Android 5.0 (API 21) o superior.
 
 # Instrucciones de uso
 Inicia la aplicación desde tu dispositivo Android.
