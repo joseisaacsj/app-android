@@ -62,7 +62,7 @@ Pensada especialmente para jóvenes recién egresados de la universidad que ingr
 
 ## Registro de cambios (Changelog)
 
-Versión	Módulo	Cambios realizados
+Versión	- Módulo	- Cambios realizados
 - 0.1	"Módulo 1"	Definición del proyecto. Revisión de herramientas (Android Studio, App Inventor, GitHub).
 - 0.2	"Módulo 2"	Diseño del wireframe en Figma. Boceto de pantallas principales. Planificación de navegación.
 - 0.3	"Módulo 3"	Implementación inicial de pantallas básicas con TextViews, Buttons e Intents.
